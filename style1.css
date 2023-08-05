@@ -138,11 +138,11 @@ a:hover {
 
 #body { width: 100%; }
 
-#body { background: #ed8601 url(https://drive.google.com/file/d/1KMSRvRk0mI8IoMNjTmAWBevIGNtA-gtI/view?usp=drivesdk); }
-#body div { background: url(https://drive.google.com/file/d/1KjdU4nQq3XI-CYElVfZ6H3Jt6f2pjFEo/view?usp=drivesdk) top left no-repeat; }
-#body div div { background: url(https://drive.google.com/file/d/1KnT0XuaF9d4RGz7ludhZ5KzgaDKZbLHT/view?usp=drivesdk) top right no-repeat; }
-#body div div div { background: url(https://drive.google.com/file/d/1KWW1QMstpFjoVTKOeMZCNz5Ewa1v1wiX/view?usp=drivesdk) bottom left no-repeat; }
-#body div div div div { background: url(https://drive.google.com/file/d/1KZxB5F5dujkteGtrVSnVcK2Nr3rq-FIN/view?usp=drivesdk) bottom right no-repeat; }
+#body { background: #ed8601 url(https://lh3.googleusercontent.com/drive-viewer/AITFw-ykKeys1qcdr4YdqkZXKvD390qd3-BQQcyiMyJID_PALUgEtnNtYs5nJfJ9cRndIs2lQE0-Pl3LgabreQYXCdhHCTEC=s2560); }
+#body div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-wJC7zWjwlHmZtEAHJCCx-TWF0hB09pZKw6cubv_S70gZaIJKHZCHycj08Zs_BB1uBz9OXj0ERI0unQFRHkIcRHrCaH=s2560) top left no-repeat; }
+#body div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-y6xnovQHMXx6KpCtG6botslDVlMNbJLV2QNy5FxYMUq1EWPO_B0vIVuxhbNbbyyquavpeJj7pGETFAkpiJ7-Iggu7TqQ=s2560) top right no-repeat; }
+#body div div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-ygBauSm0DVO60ar1HMo841EPd10QkZQmNZ-5wJAxUszzbbiq2sAuSCyP34tZSR6su5isfQPluB2J4pvpWvetGp0MAS=s2560) bottom left no-repeat; }
+#body div div div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-wI5GK8XjxkWOZ07iDc1IRLmB0Q_WaLouoKSfdJTCtBy_Y4um86eKVf--egpqbaICJrzClEgQ1WroaPGFrHGNxByyheEQ=s2560) bottom right no-repeat; }
 #body .inner div { background: none; }
 
 #body .inner {
@@ -168,7 +168,7 @@ a:hover {
 	clear: both;
 	margin: 0 1em;
 	padding: 12px 0;
-	background: url(https://drive.google.com/file/d/1KwTIdqyPXECB1FnJ0lu0YtUv3sQZTpTr/view?usp=drivesdk) 12px 12px repeat-x;
+	background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-wezTANtrZQyaPmTDTu2DiW4hyEdM35hhrFOEs6IIMgUKUOkNxIUQc2UIJIrybA0LGfGnH_WITU3yk8nFNCQJ7ygWtEHA=s2560) 12px 12px repeat-x;
 }
 
 /* darkboxes */
