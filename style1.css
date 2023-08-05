@@ -177,9 +177,9 @@ a:hover {
 * html #body #boxes #left .inner  { width: 100%; w\idth: 90%; }
 * html #body #boxes #right .inner { width: 100%; w\idth: 95%; }
 
-#body #boxes { background: url(https://drive.google.com/file/d/1KpVFets6bwOiZ1Zc7G5Sl94MSHa0p1Tv/view?usp=drivesdk) repeat-y; }
-#body #boxes div { background: url(https://drive.google.com/file/d/1KuAhH74TMuDfXcSDh6dUxTY6HOUOfM5L/view?usp=drivesdk) top left no-repeat; }
-#body #boxes div div { background: url(https://drive.google.com/file/d/1KnahUKiZ1PmpZLe7xVxrb-iU5-bqeT1m/view?usp=drivesdk) bottom left no-repeat; }
+#body #boxes { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-zmWq9lbbcSGxLZnUBxWDNIn3Pn8kmn8Ar74ISqIRQ8d-SWGTZlvepQdIdWFSkhe95EaRXUpfF04sYeNVuacBdtMf_K2g=s2560) repeat-y; }
+#body #boxes div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-z6ZFQ6eL_96dqqzibA0nDVBj8u9nDxednddPtKSB7jVv0HqBrszIYI8c7U5aDZa-Jozk6g67Js-du_s25zJ_BXMQVGRA=s2560) top left no-repeat; }
+#body #boxes div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-zIqHD61T8BpLzteI8akz5XMTH2MIkCgZ-zAA13pyJCbJUlKP0zvyNDvMu6YcdRP2l2ZBSTQqg7dzTT-1UNQrboPJ-7bA=s2560) bottom left no-repeat; }
 #body #boxes .inner div { background: none; }
 
 #body #boxes .inner {
