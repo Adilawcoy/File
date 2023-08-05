@@ -138,11 +138,11 @@ a:hover {
 
 #body { width: 100%; }
 
-#body { background: #ed8601 url(images/body_bg.gifhttps://drive.google.com/file/d/1KMSRvRk0mI8IoMNjTmAWBevIGNtA-gtI/view?usp=drivesdk); }
-#body div { background: url(images/body_tl.gifhttps://drive.google.com/file/d/1KjdU4nQq3XI-CYElVfZ6H3Jt6f2pjFEo/view?usp=drivesdk) top left no-repeat; }
-#body div div { background: url(images/body_tr.gifhttps://drive.google.com/file/d/1KnT0XuaF9d4RGz7ludhZ5KzgaDKZbLHT/view?usp=drivesdk) top right no-repeat; }
-#body div div div { background: url(images/body_bl.gifhttps://drive.google.com/file/d/1KWW1QMstpFjoVTKOeMZCNz5Ewa1v1wiX/view?usp=drivesdk) bottom left no-repeat; }
-#body div div div div { background: url(images/body_br.gifhttps://drive.google.com/file/d/1KZxB5F5dujkteGtrVSnVcK2Nr3rq-FIN/view?usp=drivesdk) bottom right no-repeat; }
+#body { background: #ed8601 url(https://drive.google.com/file/d/1KMSRvRk0mI8IoMNjTmAWBevIGNtA-gtI/view?usp=drivesdk); }
+#body div { background: url(https://drive.google.com/file/d/1KjdU4nQq3XI-CYElVfZ6H3Jt6f2pjFEo/view?usp=drivesdk) top left no-repeat; }
+#body div div { background: url(https://drive.google.com/file/d/1KnT0XuaF9d4RGz7ludhZ5KzgaDKZbLHT/view?usp=drivesdk) top right no-repeat; }
+#body div div div { background: url(https://drive.google.com/file/d/1KWW1QMstpFjoVTKOeMZCNz5Ewa1v1wiX/view?usp=drivesdk) bottom left no-repeat; }
+#body div div div div { background: url(https://drive.google.com/file/d/1KZxB5F5dujkteGtrVSnVcK2Nr3rq-FIN/view?usp=drivesdk) bottom right no-repeat; }
 #body .inner div { background: none; }
 
 #body .inner {
@@ -168,7 +168,7 @@ a:hover {
 	clear: both;
 	margin: 0 1em;
 	padding: 12px 0;
-	background: url(images/divider_h.gifhttps://drive.google.com/file/d/1KwTIdqyPXECB1FnJ0lu0YtUv3sQZTpTr/view?usp=drivesdk) 12px 12px repeat-x;
+	background: url(https://drive.google.com/file/d/1KwTIdqyPXECB1FnJ0lu0YtUv3sQZTpTr/view?usp=drivesdk) 12px 12px repeat-x;
 }
 
 /* darkboxes */
@@ -177,9 +177,9 @@ a:hover {
 * html #body #boxes #left .inner  { width: 100%; w\idth: 90%; }
 * html #body #boxes #right .inner { width: 100%; w\idth: 95%; }
 
-#body #boxes { background: url(images/box_bg.gifhttps://drive.google.com/file/d/1KpVFets6bwOiZ1Zc7G5Sl94MSHa0p1Tv/view?usp=drivesdk) repeat-y; }
-#body #boxes div { background: url(images/box_t.gifhttps://drive.google.com/file/d/1KuAhH74TMuDfXcSDh6dUxTY6HOUOfM5L/view?usp=drivesdk) top left no-repeat; }
-#body #boxes div div { background: url(images/box_b.gifhttps://drive.google.com/file/d/1KnahUKiZ1PmpZLe7xVxrb-iU5-bqeT1m/view?usp=drivesdk) bottom left no-repeat; }
+#body #boxes { background: url(https://drive.google.com/file/d/1KpVFets6bwOiZ1Zc7G5Sl94MSHa0p1Tv/view?usp=drivesdk) repeat-y; }
+#body #boxes div { background: url(https://drive.google.com/file/d/1KuAhH74TMuDfXcSDh6dUxTY6HOUOfM5L/view?usp=drivesdk) top left no-repeat; }
+#body #boxes div div { background: url(https://drive.google.com/file/d/1KnahUKiZ1PmpZLe7xVxrb-iU5-bqeT1m/view?usp=drivesdk) bottom left no-repeat; }
 #body #boxes .inner div { background: none; }
 
 #body #boxes .inner {
