@@ -1,0 +1,251 @@
+body {
+	font-family: tahoma, helvetica, arial, sans-serif;
+	text-align: center;
+	color: #6f6f6f;
+}
+  
+html, body, #wrapper, h1, #nav, #nav ul, #nav li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+body, th, td {
+	font-size: 10px;
+}
+
+img { border: 0; }
+
+#wrapper {
+	margin: 16px auto;
+	text-align: left;
+	position: relative;
+}
+
+h1, h2, h3 {
+	font-size: 12px;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+
+h3 {
+	padding: 4px 0 0 0;
+}
+
+p {
+	margin: 1em 0;
+	padding: 0;
+}
+
+.block {
+	display: block;
+}
+
+.clear {
+	clear: both;
+	height: 1px;
+	padding-top: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 1px;
+	line-height: 1px;
+}
+
+* html .clear {
+	margin-top: -5px;
+	margin-bottom: -4px;
+}
+
+.left {
+	float: left;
+	margin: 1px 12px 0px 0px;
+}
+
+.softright {
+	text-align: right;
+}
+
+/* ***** */
+
+body {
+	background: #373839;
+	padding-bottom: 12px;
+}
+
+#wrapper {
+	width: 658px;
+}
+
+h1 {
+	margin-bottom: 2px;
+}
+
+a {
+	color: #f5f5f5;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/* navigation */
+
+#nav {
+	position: absolute;
+	top: 15px;
+	right: 0;
+	width: 31em;
+}
+
+#nav li {
+	width: 7em;
+	float: left;
+	margin: 0 0.3em;
+	padding: 0;
+}
+
+#nav a {
+	color: #fff;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 4px 0;
+	display: block;
+	text-align: center;
+}
+
+#nav a:hover {
+	text-decoration: underline;
+}
+
+#nav li.a   { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-z20V5S0hF_DZ47q3sqYrpHgqwIhHt-fBHJ28nYNJUFWDxJgLfzAdaq3wI2AnkXmUcyVsx6NtSYD0Tzwoai3GjPU10FaQ=s2560) no-repeat; }
+#nav li.a a { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-w2phd8xvma1o5z5meR5IT7_ZTXFHyGlzQyYUHOEOWkCYQUCH_uqKOOXngj8lfFnZduz0P2XEfweQmYFrIcgG6A7aCVLQ=s2560)  top right no-repeat; }
+#nav li.b   { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-w7hgRcv8kxmetIxc4kHat3qU1rMIyh1UACi2H9yncDstmjCJ8Z27nglRiQ4Lhvr1PVp7tgzTqerZXufLttDVScaOuC=s2560) no-repeat; }
+#nav li.b a { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-xLTiXejYRAtiUi7zjxypX8k2IBnmqC8J_-0MuNum33PPZN3yvyj9iN9dTtttHHerSvIghyOxjBfNi47EKtoXSeQXs2RA=s2560)  top right no-repeat; }
+#nav li.c   { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-z2nrcdwJLL4uuOB_jmUkx8AmuDWR70LHNO_XDDmFMEeSYB1ul-yYSpMdOCT0jptexHoOR2sgY6QRXtSjPXU7EXoRMYow=s2560) no-repeat; }
+#nav li.c a { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-yvCpzDsYrolOSMMptBPgubEvdZR6Jfr9ISHs0V0PuiE9_IbmT2CazP64Zlft1v6EhjEc8eQzPT7JLdQqibkHM3HYx-TQ=s2560)  top right no-repeat; }
+#nav li.d   { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-xpbpBHcNCOJQJgfXxLBM2-Fvu_KqhDUGYgS5GLPrXlLQ7qca63FGTdJOvIHO4hFWiCFEIcUjbMPSwhTvH0fOESN3z0BA=s2560) no-repeat; }
+#nav li.d a { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-yEIYmSjgWGSmkBqJ84EGK2dbUNPd_sA3nG96HBPRhYrsKiVDkzGmlpPjAh900sHmjHHndTVoEhZ3jo4e4ilS7-kNzJ=s2560)  top right no-repeat; }
+
+/* body */
+
+#body { width: 100%; }
+
+#body { background: #ed8601 url(https://lh3.googleusercontent.com/drive-viewer/AITFw-ykKeys1qcdr4YdqkZXKvD390qd3-BQQcyiMyJID_PALUgEtnNtYs5nJfJ9cRndIs2lQE0-Pl3LgabreQYXCdhHCTEC=s2560); }
+#body div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-wJC7zWjwlHmZtEAHJCCx-TWF0hB09pZKw6cubv_S70gZaIJKHZCHycj08Zs_BB1uBz9OXj0ERI0unQFRHkIcRHrCaH=s2560) top left no-repeat; }
+#body div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-y6xnovQHMXx6KpCtG6botslDVlMNbJLV2QNy5FxYMUq1EWPO_B0vIVuxhbNbbyyquavpeJj7pGETFAkpiJ7-Iggu7TqQ=s2560) top right no-repeat; }
+#body div div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-ygBauSm0DVO60ar1HMo841EPd10QkZQmNZ-5wJAxUszzbbiq2sAuSCyP34tZSR6su5isfQPluB2J4pvpWvetGp0MAS=s2560) bottom left no-repeat; }
+#body div div div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-wI5GK8XjxkWOZ07iDc1IRLmB0Q_WaLouoKSfdJTCtBy_Y4um86eKVf--egpqbaICJrzClEgQ1WroaPGFrHGNxByyheEQ=s2560) bottom right no-repeat; }
+#body .inner div { background: none; }
+
+#body .inner {
+	color: white;
+	padding: 18px 20px;
+}
+
+#body h2 {
+	margin-top: 3px;
+	text-indent: -3px;
+}
+
+* html #body h2 {
+	margin-top: 21px;
+	marg\in-top: 3px;
+}
+
+#body p {
+	margin: 1em 0;
+}
+
+#body #dividerx {
+	clear: both;
+	margin: 0 1em;
+	padding: 12px 0;
+	background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-wezTANtrZQyaPmTDTu2DiW4hyEdM35hhrFOEs6IIMgUKUOkNxIUQc2UIJIrybA0LGfGnH_WITU3yk8nFNCQJ7ygWtEHA=s2560) 12px 12px repeat-x;
+}
+
+/* darkboxes */
+
+* html #boxes, * html #boxes .inner { width: 100%; }
+* html #body #boxes #left .inner  { width: 100%; w\idth: 90%; }
+* html #body #boxes #right .inner { width: 100%; w\idth: 95%; }
+
+#body #boxes { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-zmWq9lbbcSGxLZnUBxWDNIn3Pn8kmn8Ar74ISqIRQ8d-SWGTZlvepQdIdWFSkhe95EaRXUpfF04sYeNVuacBdtMf_K2g=s2560) repeat-y; }
+#body #boxes div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-z6ZFQ6eL_96dqqzibA0nDVBj8u9nDxednddPtKSB7jVv0HqBrszIYI8c7U5aDZa-Jozk6g67Js-du_s25zJ_BXMQVGRA=s2560) top left no-repeat; }
+#body #boxes div div { background: url(https://lh3.googleusercontent.com/drive-viewer/AITFw-zIqHD61T8BpLzteI8akz5XMTH2MIkCgZ-zAA13pyJCbJUlKP0zvyNDvMu6YcdRP2l2ZBSTQqg7dzTT-1UNQrboPJ-7bA=s2560) bottom left no-repeat; }
+#body #boxes .inner div { background: none; }
+
+#body #boxes .inner {
+	color: white;
+	padding: 0;
+}
+
+#left {
+	float: left;
+	width: 194px;
+}
+
+#right {
+	float: right;
+	width: 404px;
+}
+
+#body #boxes #left .inner,
+#body #boxes #right .inner {
+	padding: 10px 11px 0px 11px;
+}
+
+#boxes ul {
+	margin: 0;
+	padding: 0;
+}
+
+* html #boxes ul {
+	margin-left: -0.7em;
+	marg\in-left: 0.0em;
+}
+
+#boxes li {
+	margin: 0.4em 1.8em 0.2em 0.1em;
+	padding: 0;
+	list-style: none;
+}
+
+a {
+	font-weight: bold;
+}
+
+#left .lowright {
+	float: right;
+	margin: 0 0 0 1em;
+	display: inline;
+}
+
+* html #left .lowright {
+	margin-bottom: -5px;
+}
+
+/* footer */
+
+#footer {
+	margin-top: 3px;
+	text-align: center;
+}
+
+#footer, #footer a {
+	font-weight: normal;
+	font-size: 9px;
+	color: #989994;
+}
+
+#footer a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
